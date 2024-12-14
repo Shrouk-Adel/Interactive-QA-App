@@ -41,6 +41,9 @@ This repository contains a project for building a Question Answering (QA) model 
 - **Question Input:** Enter your question in the input field.
 - **Get Answer:** Click the button to generate an answer based on the provided context.
 - **Examples:** Use the example context and question to test the model.
+![Screenshot 2024-12-14 194415](https://github.com/user-attachments/assets/b12ef051-b97b-4987-846a-3c6caa652e96)
+
+  
 
 ## Dataset
 The project uses the [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/) for training and evaluation:
