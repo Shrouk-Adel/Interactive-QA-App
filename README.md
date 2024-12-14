@@ -27,8 +27,7 @@ This repository contains a project for building a Question Answering (QA) model 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
-   cd your_repo_name
+   git clone https://github.com/Shrouk-Adel/Interactive-QA-App
    ```
 2. Install required packages:
    ```bash
